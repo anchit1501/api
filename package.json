@@ -1,0 +1,21 @@
+{
+  "name": "gift-api",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/anchit1501/api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "anchit1501",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
